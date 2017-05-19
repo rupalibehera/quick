@@ -1,0 +1,9 @@
+---
+buildName: "quick"
+links:
+  Current: "http://172.30.41.48:80/kubernetes/pods?namespace=default"
+  Git: "http://gogs/gogsadmin/quick.git"
+  Job: "http://jenkins.default.192.168.42.188.nip.io/job/quick"
+environments:
+  Current: "default"
+useLocalFlow: true
